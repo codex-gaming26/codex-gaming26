@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/codex-gaming26/"><img alt="Annastasia Github Stats" src="https://github-readme-stats.vercel.app/api?username=codex-gaming26&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=29c785&icon_color=29c785"/></a>
+<br/>
 
 <a href="https://github.com/codex-gaming26/"><img alt="Annastasia Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex-gaming26&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=29c785&icon_color=29c785"/></a>
 <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codex-gaming26&bg_color=0d1117&color=29c785&line=29c785&point=d4d4d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+<a href="https://github.com/codex-gaming26/"><img alt="" src="https://komarev.com/ghpvc/?username=codex-gaming26" /></a>
