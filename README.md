@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&vCenter=true&width=435&height=150&lines=Hey+There!;I+m+Annastasia+;A+full+Stack+FiveM+%26+Web+Developer)](https://git.io/typing-svg)
+
 <!--
 **codex-gaming26/codex-gaming26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
