@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&vCenter=true&width=435&height=150&lines=Hey+There!;I+m+Codex+;A+full+Stack+FiveM+%26+Web+Developer)](https://git.io/typing-svg)
 
+## My Skills and Tools I use
+![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,mongodb,php,cloudflare,ps,vscode,discord,git)
+
+
 <!--
 **codex-gaming26/codex-gaming26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
